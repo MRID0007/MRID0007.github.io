@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.409b3bfd.css",
-    "main.js": "/static/js/main.55b1a743.js",
+    "main.js": "/static/js/main.3774e727.js",
     "static/js/453.1965c8d6.chunk.js": "/static/js/453.1965c8d6.chunk.js",
-    "static/media/Michael_Ridgway.jpeg": "/static/media/Michael_Ridgway.b45de439dabf863c757c.jpeg",
+    "static/media/Michael_Ridgway.png": "/static/media/Michael_Ridgway.9d3d57bce3db7d634c53.png",
     "static/media/Main_Logo.png": "/static/media/Main_Logo.26bf14b3162a01d19db5.png",
     "index.html": "/index.html",
     "main.409b3bfd.css.map": "/static/css/main.409b3bfd.css.map",
-    "main.55b1a743.js.map": "/static/js/main.55b1a743.js.map",
+    "main.3774e727.js.map": "/static/js/main.3774e727.js.map",
     "453.1965c8d6.chunk.js.map": "/static/js/453.1965c8d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.409b3bfd.css",
-    "static/js/main.55b1a743.js"
+    "static/js/main.3774e727.js"
   ]
 }
